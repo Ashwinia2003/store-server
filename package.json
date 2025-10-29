@@ -1,0 +1,26 @@
+{
+  "name": "store-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ashwinia2003/store-server.git"
+  },
+  "author": "Ashwini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ashwinia2003/store-server/issues"
+  },
+  "homepage": "https://github.com/Ashwinia2003/store-server#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
